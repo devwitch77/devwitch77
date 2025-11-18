@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there! I’m Youssef Abouattalla, a Computer Science graduate specializing in Artificial Intelligence, passionate about building systems that learn, adapt, and make life smarter.<br>I love designing things that feel alive , whether it’s a neural network predicting hurricanes, a dashboard visualizing real-time IoT data, or a full-stack app with a pulse.<br><br>🧠 Machine Learning & Deep Learning <br><br>⚙️ Backend Development & UI/UX<br><br>📊 Data Engineering & Visualization<br><br>☁️ Cloud & DevOps 
+Hey there! I’m Youssef, a Computer Science graduate specializing in Artificial Intelligence, passionate about building systems that learn, adapt, and make life smarter.<br>I love designing things that feel alive , whether it’s a neural network predicting hurricanes, a dashboard visualizing real-time IoT data, or a full-stack app with a pulse.<br><br>🧠 Machine Learning & Deep Learning <br><br>⚙️ Backend Development & UI/UX<br><br>📊 Data Engineering & Visualization<br><br>☁️ Cloud & DevOps 
 
 
 ## 🌐 Socials:
